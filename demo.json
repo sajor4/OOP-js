@@ -1,0 +1,18 @@
+{
+    "name": "bryan",
+    "yob": 1994,
+    "isMarried": false
+}
+
+[
+    {
+        "name": "bryan",
+        "yob": 1994,
+        "isMarried": false
+    },
+    {
+        "name": "francesca",
+        "yob": 1989,
+        "isMarried": false
+    }
+]
